@@ -1,3 +1,4 @@
+cumle = input("bir cümle giriniz")
 sozluk = {}
 for i in cumle:
     keys = sozluk.keys()
