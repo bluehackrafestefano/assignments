@@ -7,3 +7,6 @@ for i in cumle:
     else:
         sozluk[i] = 1
 print(sozluk)
+
+
+this is my addition
